@@ -148,7 +148,7 @@ header {
 
 #navbar nav a {
   display: inline-block;
-  width: 16.6667%;
+  width: 16.66666666667%;
   margin: 0;
   padding: 22px 0;
   text-transform: uppercase;
@@ -159,7 +159,7 @@ header {
   font: 1em "Trebuchet MS", Arial, sans-serif;
 }
 
-#navbar nav a selected {
+#navbar nav a.selected {
   background: #333;
   color: white;
 }
